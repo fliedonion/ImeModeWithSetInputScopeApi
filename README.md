@@ -1,0 +1,2 @@
+# ImeModeWithSetInputScopeApi
+WInForms Win8以降で IME設定がユーザ単位のときに入力モードを切り替えるテスト
